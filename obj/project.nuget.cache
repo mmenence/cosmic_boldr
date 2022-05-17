@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1O1BgIcUukc4lZiR2CcjIyo5nb6aPEEhv9plYBlRKId9PYweFIebEN8EOEiZY1gWvNdTctKgGc/f8eS5JLviyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diges\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\vasaga\\vasaga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diges\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
